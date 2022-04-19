@@ -10,3 +10,6 @@ _______# Day 1 #_______
   Update:
 - Cards with animation
 - Background with rising stars
+
+  Note:
+Please don't mind how I'm organizing my files for now. I'm still learning and to make it easier, I'm naming them my way to find them later. :smile:
